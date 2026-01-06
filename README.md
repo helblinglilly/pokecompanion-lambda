@@ -1,3 +1,5 @@
+> Deprecation Notice: This codebase is no longer maintained and has since been absorbed into the main backend. 
+
 # pokecompanion-lambda
 
 Collecion of Lambdas to periodically poll the PokeAPI to get high-level exports.
